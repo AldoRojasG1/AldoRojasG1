@@ -5,7 +5,7 @@ Me especializo en la construcción de aplicaciones web robustas, enfocándome en
 
 ---
 
-### 🚀 Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 **Dominio Principal:**
 <br>
@@ -21,14 +21,14 @@ Me especializo en la construcción de aplicaciones web robustas, enfocándome en
 
 ---
 
-### 💻 Proyectos Destacados
+### Proyectos Destacados
 
 * **ArkuPro:** Aplicación enfocada en el análisis de productividad.
 * **Bareky:** Sistema ERP integral para la gestión y administración de panaderías.
 
 ---
 
-### 🔧 Foco Técnico
+### Mis funciones
 
 * **Desarrollo Backend:** Creación de APIs RESTful, manejo avanzado de Eloquent ORM, migraciones y sistemas de autenticación seguros con **Laravel**.
 * **Bases de Datos:** Modelado Entidad-Relación, normalización de datos, escritura de consultas complejas y optimización de índices.
