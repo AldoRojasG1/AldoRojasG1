@@ -1,4 +1,4 @@
-# ¡Hola, soy Aldo! 
+# ¡Hola, soy Aldo Rojas G! 
 **Desarrollador Backend | Estudiante de Ingeniería en Sistemas Computacionales**
 
 Me especializo en la construcción de aplicaciones web robustas, enfocándome en la arquitectura de datos, el desarrollo del lado del servidor y la creación de soluciones eficientes de principio a fin. 
